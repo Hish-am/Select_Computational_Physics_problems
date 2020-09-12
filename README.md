@@ -29,7 +29,7 @@ NB: I Compare using NDSolve whenever applicable in problem 3.
 
 ### Chapter4:
 
--Using the Euler-Cramer method to trace out circular and eliptical planetary orbits.  
+-Using the Euler-Cromer method to trace out circular and eliptical planetary orbits.  
 -calculating respective energy and angular momentum of these orbits verifying Keplar's laws.  
 -Reproducing Precession of the perihelion of Mercury.  
 -studying the chaotic tumbling of hyperion.  
@@ -64,5 +64,18 @@ Problem 4: simulating the time evolution of Eden cluster.
 
 #### The problems involved include:
 Problem 1: question 10.1, using the shooting method to model Square Well states - 4 lowest Odd parity levels.  
+  
 
-
+## Sample result from chapter
+      
+    
+      
+![Image from Kinematics](https://github.com/Hish-am/Select_Computational_Physics_problems/blob/master/Chapter_2/Chapter_2_Kinematics_results_(4).gif)    
+    
+    
+    
+    
+![Image from planetary](https://github.com/Hish-am/Select_Computational_Physics_problems/blob/master/Chapter_4/Chapter_4_Planetary_motion_results%20%20(9).gif) 
+  
+  
+   ![Image from Kinematics](https://github.com/Hish-am/Select_Computational_Physics_problems/blob/master/Chapter_4/Chapter_4_Planetary_motion_results%20%20(17).gif)
